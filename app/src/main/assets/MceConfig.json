@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://euapi.ibm.xtify.com/3.0",
+  "appKey": {
+    "prod":"gcX5oB5AyL"
+  },
+  "senderId": "974804965786",
+  "sessionsEnabled": true,
+  "sessionTimeout": 20,
+  "metricTimeInterval": 30,
+  "loglevel": "info",
+  "logfile": true
+}
